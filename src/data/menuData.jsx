@@ -1,4 +1,4 @@
-const ProductData = [
+const menuData = [
   {
     id: 1,
     name: "Truffle Pasta",
@@ -133,4 +133,4 @@ const ProductData = [
   },
 ];
 
-export default ProductData;
+export default menuData;
