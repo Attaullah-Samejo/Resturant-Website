@@ -7,7 +7,7 @@ import {
   ShoppingBag,
   Star,
 } from "lucide-react";
-import menuData from "../data/MenuData";
+import menuData from "../data/ProductData";
 import { useCart } from "../context/CartContext";
 
 function Menu() {
